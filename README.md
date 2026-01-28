@@ -14,6 +14,11 @@ O trabalho simula um cenário real de mercado onde atuei em duas frentes:
 * **Gestão de Tarefas:** Trello (utilizado para simular o fluxo de sprints e entregas).
 * **Documentação:** Estruturação de Backlog, levantamento de requisitos e critérios de aceitação.
 
+## 📊 Quadro Kanban (Fluxo de Trabalho)
+Abaixo, a representação visual do gerenciamento das tarefas no Trello, demonstrando a divisão entre Backlog, Tarefas em Andamento e Concluídas:
+
+![Quadro Kanban do Projeto](img/kanban.png)  
+
 ## 📋 Resultados Alcançados
 Através da aplicação prática, foram obtidos os seguintes resultados:
 * **Estruturação do Backlog:** Criação de itens essenciais como Autenticação de Usuários, API para Catálogo de Livros, Integração de Pagamentos e Dashboard Administrativo.
@@ -25,6 +30,9 @@ Através da aplicação prática, foram obtidos os seguintes resultados:
 O projeto demonstrou que o uso de metodologias ágeis é fundamental para a colaboração e o alinhamento das necessidades do cliente. A aplicação do Scrum e Kanban permitiu reduzir desperdícios, promover a melhoria contínua e garantir a excelência na qualidade do produto final.
 
 ---
+
+## 📂 Conteúdo Adicional
+O relatório acadêmico completo, com a fundamentação teórica e as conclusões, pode ser consultado na pasta `/docs`. [Visualizar Relatório Acadêmico](https://github.com/cezarscarvalho/projeto-software-agile/blob/main/docs/Portif%C3%B3lio%20-%20Projeto%20de%20Software-%20Terceiro%20Semestre.docx.pdf)
 
 ## 🧭 Navegação Completa pelo Portfólio
 
