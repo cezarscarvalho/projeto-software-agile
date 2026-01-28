@@ -32,7 +32,7 @@ O projeto demonstrou que o uso de metodologias ágeis é fundamental para a cola
 ---
 
 ## 📂 Conteúdo Adicional
-O relatório acadêmico completo, com a fundamentação teórica e as conclusões, pode ser consultado na pasta `/docs`. [Visualizar Relatório Acadêmico](https://github.com/cezarscarvalho/projeto-software-agile/blob/main/docs/Portif%C3%B3lio%20-%20Projeto%20de%20Software-%20Terceiro%20Semestre.docx.pdf)
+O relatório acadêmico completo, com a fundamentação teórica e as conclusões, pode ser consultado na pasta `/docs`. [Visualizar Relatório Acadêmico](https://github.com/cezarscarvalho/projeto-software-agile/blob/main/docs/Portif%C3%B3lio%20-%20Projeto%20de%20Software-%20Terceiro%20Semestre.pdf)
 
 ## 🧭 Navegação Completa pelo Portfólio
 
