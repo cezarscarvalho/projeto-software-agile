@@ -1,5 +1,3 @@
-# projeto-software-agile
-
 # Projeto de Software - Gestão Acadêmica e Metodologias Ágeis
 
 Este repositório contém o projeto prático desenvolvido durante o 3º semestre da graduação em Gestão da Tecnologia da Informação. O foco principal foi a aplicação de metodologias ágeis no ciclo de vida de desenvolvimento de um software.
@@ -43,6 +41,7 @@ Confira os meus outros projetos técnicos desenvolvidos durante a graduação em
 * 🐧 [**Sistemas Operacionais** (Linux & VirtualBox)](https://github.com/cezarscarvalho/sistemas-operacionais-linux)
 * 📐 [**Lógica e Processos** (Fluxogramas)](https://github.com/cezarscarvalho/logica-fluxograma-processos)
 * 🌐 [**Redes de Computadores** (Cisco Packet Tracer)](https://github.com/cezarscarvalho/redes-infraestrutura-corporativa)
+* 🌍 [**Projetos Extensionistas**](https://github.com/cezarscarvalho/projetos-extensionistas-faculdade)
 
 ## ✉️ Contato
 
